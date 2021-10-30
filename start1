@@ -1,0 +1,13 @@
+function sayHello(name) {
+    console.log('Hello, ' + name)    
+}
+
+sayHello('Max')
+sayHello('Anton')
+sayHello('Dasha')
+    
+    console.log('How old are you?');
+        sayHello('Max 27 years old');
+        sayHello('Anton 30 years old');
+        sayHello('Dasha 28 years old');
+console.log(sumAll);
